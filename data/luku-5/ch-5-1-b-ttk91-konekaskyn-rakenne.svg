@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1051"
+   version="1.1"
+   viewBox="0 0 210.34177 55.560539"
+   height="55.560539mm"
+   width="210.34177mm">
+  <defs
+     id="defs1045" />
+  <metadata
+     id="metadata1048">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.09547618,-75.412446)"
+     id="layer1">
+    <rect
+       y="75.694946"
+       x="0.37797618"
+       height="54.995541"
+       width="209.77676"
+       id="rect5684"
+       style="opacity:1;fill:#ccf8f4;fill-opacity:1;stroke:#0f0706;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="81.742561"
+       x="5.6696429"
+       height="19.654762"
+       width="26.458326"
+       id="rect5299"
+       style="opacity:1;fill:#fffec3;fill-opacity:1;stroke:#0f0706;stroke-width:0.565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="81.742561"
+       x="32.127972"
+       height="19.654762"
+       width="21.544636"
+       id="rect5299-4"
+       style="opacity:1;fill:#fffec3;fill-opacity:1;stroke:#0f0706;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="81.742561"
+       x="53.672607"
+       height="19.654762"
+       width="25.324398"
+       id="rect5299-4-5"
+       style="opacity:1;fill:#fffec3;fill-opacity:1;stroke:#0f0706;stroke-width:0.56500006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="81.742561"
+       x="102.58272"
+       height="19.654762"
+       width="101.14646"
+       id="rect5299-4-5-4"
+       style="opacity:1;fill:#fffec3;fill-opacity:1;stroke:#0f0706;stroke-width:0.56500012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="81.742561"
+       x="78.997009"
+       height="19.654762"
+       width="23.585711"
+       id="rect5299-4-5-6"
+       style="opacity:1;fill:#fffec3;fill-opacity:1;stroke:#0f0706;stroke-width:0.56500012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433"
+       y="89.951736"
+       x="9.0712795"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="89.951736"
+         x="9.0712795"
+         id="tspan5467">OPCODE</tspan><tspan
+         y="95.243401"
+         x="9.0712795"
+         id="tspan5469">8 bittiä</tspan></text>
+    <text
+       id="text5453"
+       y="91.064102"
+       x="138.02522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="91.064102"
+         x="138.02522"
+         id="tspan5471">ADDR</tspan><tspan
+         y="96.355766"
+         x="138.02522"
+         id="tspan5473">16 bittiä</tspan></text>
+    <text
+       id="text872"
+       y="89.930176"
+       x="36.727684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan866"
+         y="89.930176"
+         x="36.727684"><tspan
+           style="stroke-width:1"
+           id="tspan862"
+           y="89.930176"
+           x="36.727684">Rj</tspan><tspan
+           style="stroke-width:1"
+           id="tspan864"
+           y="89.930176"
+           x="41.126381"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan870"
+         y="95.22184"
+         x="36.727684"><tspan
+           style="stroke-width:1"
+           id="tspan868"
+           y="95.22184"
+           x="36.727684">3 bittiä</tspan></tspan></text>
+    <text
+       id="text884"
+       y="89.930176"
+       x="58.554276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan878"
+         y="89.930176"
+         x="58.554276"><tspan
+           style="stroke-width:1"
+           id="tspan874"
+           y="89.930176"
+           x="58.554276">moodi M</tspan><tspan
+           style="stroke-width:1"
+           id="tspan876"
+           y="89.930176"
+           x="76.67823"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan882"
+         y="95.22184"
+         x="58.554276"><tspan
+           style="stroke-width:1"
+           id="tspan880"
+           y="95.22184"
+           x="58.554276">2 bittiä</tspan></tspan></text>
+    <text
+       id="text896"
+       y="90.252342"
+       x="84.245583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan890"
+         y="90.252342"
+         x="84.245583"><tspan
+           style="stroke-width:1"
+           id="tspan886"
+           y="90.252342"
+           x="84.245583">Ri</tspan><tspan
+           style="stroke-width:1"
+           id="tspan888"
+           y="90.252342"
+           x="88.354889"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan894"
+         y="95.544006"
+         x="84.245583"><tspan
+           style="stroke-width:1"
+           id="tspan892"
+           y="95.544006"
+           x="84.245583">3 bittiä</tspan></tspan></text>
+    <text
+       id="text5433-9"
+       y="110.93252"
+       x="7.6839609"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="110.93252"
+         x="7.6839609"
+         id="tspan5686">ADD</tspan><tspan
+         y="116.22418"
+         x="7.6839609"
+         id="tspan5688">0001 0001</tspan><tspan
+         y="121.51585"
+         x="7.6839609"
+         id="tspan5690" /><tspan
+         y="126.80752"
+         x="7.6839609"
+         id="tspan5692">ADD R2, =21(R5)           R2 &lt;-- R2 + mem(R5+21)</tspan></text>
+    <text
+       id="text5453-4"
+       y="112.04488"
+       x="136.63792"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="112.04488"
+         x="136.63792"
+         id="tspan5666">21</tspan><tspan
+         y="117.33655"
+         x="136.63792"
+         id="tspan5668">0000 0000 0001 0101</tspan></text>
+    <text
+       id="text908"
+       y="110.91095"
+       x="35.340363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan902"
+         y="110.91095"
+         x="35.340363"><tspan
+           style="stroke-width:1"
+           id="tspan898"
+           y="110.91095"
+           x="35.340363">R2</tspan><tspan
+           style="stroke-width:1"
+           id="tspan900"
+           y="110.91095"
+           x="40.979294"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan906"
+         y="116.20262"
+         x="35.340363"><tspan
+           style="stroke-width:1"
+           id="tspan904"
+           y="116.20262"
+           x="35.340363">010</tspan></tspan></text>
+    <text
+       id="text920"
+       y="110.91095"
+       x="57.166954"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan914"
+         y="110.91095"
+         x="57.166954"><tspan
+           style="stroke-width:1"
+           id="tspan910"
+           y="110.91095"
+           x="57.166954">=</tspan><tspan
+           style="stroke-width:1"
+           id="tspan912"
+           y="110.91095"
+           x="60.631344"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan918"
+         y="116.20262"
+         x="57.166954"><tspan
+           style="stroke-width:1"
+           id="tspan916"
+           y="116.20262"
+           x="57.166954">01</tspan></tspan></text>
+    <text
+       id="text932"
+       y="111.23312"
+       x="82.858261"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:1"
+         id="tspan926"
+         y="111.23312"
+         x="82.858261"><tspan
+           style="stroke-width:1"
+           id="tspan922"
+           y="111.23312"
+           x="82.858261">R5</tspan><tspan
+           style="stroke-width:1"
+           id="tspan924"
+           y="111.23312"
+           x="88.497192"
+           dx="0" /></tspan><tspan
+         style="stroke-width:1"
+         id="tspan930"
+         y="116.52478"
+         x="82.858261"><tspan
+           style="stroke-width:1"
+           id="tspan928"
+           y="116.52478"
+           x="82.858261">101</tspan></tspan></text>
+  </g>
+</svg>

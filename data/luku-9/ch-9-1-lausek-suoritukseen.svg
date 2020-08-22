@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1183"
+   version="1.1"
+   viewBox="0 0 210.53275 173.49107"
+   height="173.49107mm"
+   width="210.53275mm">
+  <defs
+     id="defs1177">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#fad084;fill-opacity:1;fill-rule:evenodd;stroke:#fad084;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11935" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#583901;fill-opacity:1;fill-rule:evenodd;stroke:#583901;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11911" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9-4-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9-4-3-5"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8-7-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9-4-3-5-8"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8-7-9-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-9-4-3-5-8-6"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1657-5-8-7-9-5-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.8)"
+         style="fill:#583901;fill-opacity:1;fill-rule:evenodd;stroke:#583901;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1796" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#fad084;fill-opacity:1;fill-rule:evenodd;stroke:#fad084;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11935-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send-4"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#fad084;fill-opacity:1;fill-rule:evenodd;stroke:#fad084;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11935-8" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata1180">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.37797621,-13.895832)"
+     id="layer1">
+    <rect
+       y="13.895832"
+       x="0.37797621"
+       height="173.49107"
+       width="210.53275"
+       id="rect14155"
+       style="opacity:1;fill:#ffedb9;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="145.99313"
+       x="41.962975"
+       height="34.773811"
+       width="115.28274"
+       id="rect13466-0-1-3"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="103.47619"
+       x="42.673508"
+       height="32.127979"
+       width="101.29761"
+       id="rect13466-0-1"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="67.757431"
+       x="42.427711"
+       height="26.458336"
+       width="94.872017"
+       id="rect13466-0"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="32.416664"
+       x="42.333332"
+       height="23.056549"
+       width="89.202377"
+       id="rect13466"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433"
+       y="40.354168"
+       x="43.782536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="40.354168"
+         x="43.782536"
+         id="tspan5431">Käännösyksikkö</tspan><tspan
+         id="tspan5435"
+         style="stroke-width:0.26458332"
+         y="46.527779"
+         x="43.782536">Lausekielinen ohjelma tai moduuli</tspan><tspan
+         id="tspan5437"
+         style="stroke-width:0.26458332"
+         y="52.701389"
+         x="43.782536">Viittaukset: symboleilla</tspan></text>
+    <text
+       id="text5433-3"
+       y="74.113541"
+       x="43.782536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="74.113541"
+         x="43.782536"
+         id="tspan5687">Objektimoduuli</tspan><tspan
+         y="80.287155"
+         x="43.782536"
+         id="tspan5689">Konekielinen ohjelman osa</tspan><tspan
+         y="86.460762"
+         x="43.782536"
+         id="tspan5691">Viittaukset: moduulin omat </tspan><tspan
+         y="92.634377"
+         x="43.782536"
+         id="tspan5693">                   muistiosoitteet (0 - N)</tspan></text>
+    <text
+       id="text5433-3-8"
+       y="108.88734"
+       x="43.845238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="108.88734"
+         x="43.845238"
+         id="tspan14180">Ajomoduuli</tspan><tspan
+         y="115.06095"
+         x="43.845238"
+         id="tspan14182">Konekielinen kokonainen ohjelma</tspan><tspan
+         y="121.23456"
+         x="43.845238"
+         id="tspan14184">Viittaukset: ohjelman omat </tspan><tspan
+         y="127.40817"
+         x="43.845238"
+         id="tspan14186">                  muistiosoitteet (0 - iso-N),</tspan><tspan
+         y="133.58179"
+         x="43.845238"
+         id="tspan14188">                  osa voi puuttua!</tspan></text>
+    <text
+       id="text5433-3-8-0"
+       y="152.66959"
+       x="43.845238"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="152.66959"
+         x="43.845238"
+         id="tspan14190">Prosessi</tspan><tspan
+         y="158.8432"
+         x="43.845238"
+         id="tspan14192">Suorituskelponen kokonainen ohjelma</tspan><tspan
+         y="165.01682"
+         x="43.845238"
+         id="tspan14194">Viittaukset: ohjelman omat </tspan><tspan
+         y="171.19041"
+         x="43.845238"
+         id="tspan14196">                  muistiosoitteet (0 - iso-N),</tspan><tspan
+         y="177.36403"
+         x="43.845238"
+         id="tspan14198">                  voivat olla virtuaalisia osoitteita</tspan></text>
+    <text
+       id="text5433-7-6"
+       y="44.329117"
+       x="164.66463"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="44.329117"
+         x="164.66463"
+         id="tspan5715">prog.c</tspan></text>
+    <text
+       id="text5433-7-6-5"
+       y="80.159904"
+       x="181.77145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="80.159904"
+         x="181.77145"
+         id="tspan5735">prog.o</tspan></text>
+    <text
+       id="text5433-7-6-54"
+       y="81.293846"
+       x="149.26547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="81.293846"
+         x="149.26547"
+         id="tspan5745">prog.obj</tspan></text>
+    <text
+       id="text5433-7-6-54-5"
+       y="129.03281"
+       x="148.31514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="129.03281"
+         x="148.31514"
+         id="tspan5775">prog.exe</tspan></text>
+    <text
+       id="text5433-7-6-54-5-9"
+       y="130.05289"
+       x="183.2722"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="130.05289"
+         x="183.2722"
+         id="tspan5805">prog</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1"
+       y="90.365265"
+       x="188.94183"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="90.365265"
+         x="188.94183"
+         id="tspan5803">math.l</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7"
+       y="90.271545"
+       x="157.93478"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="90.271545"
+         x="157.93478"
+         id="tspan5835">math.sll</tspan></text>
+    <text
+       id="text5433-7-6-54-5-9-0"
+       y="169.36229"
+       x="182.59877"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="169.36229"
+         x="182.59877"
+         id="tspan5883">pid</tspan><tspan
+         y="175.5359"
+         x="182.59877"
+         id="tspan5885">1326</tspan></text>
+    <text
+       id="text5433-7-6-54-5-9-0-1"
+       y="159.91292"
+       x="164.4558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="159.91292"
+         x="164.4558"
+         id="tspan991">pid</tspan><tspan
+         y="166.08653"
+         x="164.4558"
+         id="tspan993">11034</tspan></text>
+    <path
+       id="path3680"
+       d="m 174.28294,46.876431 12.37008,28.663325"
+       style="fill:none;stroke:#000000;stroke-width:0.24896038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       id="path3680-7"
+       d="m 174.2501,46.877735 -13.13546,29.00696"
+       style="fill:none;stroke:#000000;stroke-width:0.24896036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-9"
+       y="59.655487"
+       x="180.87065"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="59.655487"
+         x="180.87065"
+         id="tspan7254">linux</tspan></text>
+    <path
+       id="path3680-7-0"
+       d="m 153.46937,83.616922 -0.82028,40.642988"
+       style="fill:none;stroke:#000000;stroke-width:0.24896035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9)" />
+    <path
+       id="path3680-7-0-5"
+       d="M 166.84547,91.709109 155.97354,124.26487"
+       style="fill:none;stroke:#000000;stroke-width:0.24896036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9-4)" />
+    <path
+       id="path3680-7-0-5-7"
+       d="m 186.31506,82.619031 0.85532,42.922649"
+       style="fill:none;stroke:#000000;stroke-width:0.24896038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9-4-3)" />
+    <path
+       id="path3680-7-0-5-7-8"
+       d="m 196.46931,92.230587 -6.65126,33.311093"
+       style="fill:none;stroke:#000000;stroke-width:0.24896039px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9-4-3-5)" />
+    <path
+       id="path3680-7-0-5-7-8-2"
+       d="m 186.71254,132.30025 0.28132,30.05147"
+       style="fill:none;stroke:#000000;stroke-width:0.24896036px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9-4-3-5-8)" />
+    <path
+       id="path3680-7-0-5-7-8-2-2"
+       d="m 156.29748,131.76495 10.91886,24.06272"
+       style="fill:none;stroke:#000000;stroke-width:0.24896038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-9-4-3-5-8-6)" />
+    <path
+       id="path11888"
+       d="m 38.931546,41.631126 c -23.8125,14.750679 -1.133927,29.501366 -1.133927,29.501366"
+       style="fill:none;fill-opacity:1;stroke:#fad084;stroke-width:2.7650001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)" />
+    <path
+       id="path11888-1"
+       d="M 39.453757,84.074957 C 15.641256,96.371307 38.31983,108.66766 38.31983,108.66766"
+       style="fill:none;fill-opacity:1;stroke:#fad084;stroke-width:2.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-1)" />
+    <path
+       id="path11888-7"
+       d="m 39.392732,117.62114 c -23.8125,15.50892 -1.133927,31.01783 -1.133927,31.01783"
+       style="fill:none;fill-opacity:1;stroke:#fad084;stroke-width:2.76500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-4)" />
+    <text
+       id="text5433-7"
+       y="57.633778"
+       x="5.0578699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="57.633778"
+         x="5.0578699"
+         id="tspan5608">Käännös </tspan><tspan
+         y="63.807388"
+         x="5.0578699"
+         id="tspan5610">lausekielestä</tspan></text>
+    <text
+       id="text5433-7-1"
+       y="91.198166"
+       x="5.9146376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="91.198166"
+         x="5.9146376"
+         id="tspan990">Linkitys</tspan><tspan
+         y="97.37178"
+         x="5.9146376"
+         id="tspan992">muihin</tspan><tspan
+         y="103.54539"
+         x="5.9146376"
+         id="tspan994">moduuleihin </tspan></text>
+    <text
+       id="text5433-7-2"
+       y="134.66542"
+       x="5.9146376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="134.66542"
+         x="5.9146376"
+         id="tspan5660">Lataus</tspan><tspan
+         y="140.83904"
+         x="5.9146376"
+         id="tspan5662">muistiin</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8"
+       y="60.033463"
+       x="145.91278"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="60.033463"
+         x="145.91278"
+         id="tspan7234">windows</tspan></text>
+    <text
+       id="text5433-7-7"
+       y="26.801762"
+       x="25.751469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="26.801762"
+         x="25.751469"
+         id="tspan989">Lausekielisestä ohjelmasta prosessiksi</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg995"
+   version="1.1"
+   viewBox="0 0 210.65475 170.21129"
+   height="170.21129mm"
+   width="210.65475mm">
+  <defs
+     id="defs989" />
+  <metadata
+     id="metadata992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-0.27916667,6.0089297)"
+     id="layer1">
+    <rect
+       y="-5.7589297"
+       x="0.52916664"
+       height="169.71129"
+       width="210.15475"
+       id="rect6825"
+       style="opacity:1;fill:#f9ddb9;fill-opacity:1;stroke:#000000;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="25.522888"
+       x="98.741959"
+       height="28.348223"
+       width="53.29464"
+       id="rect13466-6"
+       style="opacity:1;fill:#fff0b9;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="22.400299"
+       x="28.348225"
+       height="44.601196"
+       width="61.610111"
+       id="rect13466"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433"
+       y="29.512344"
+       x="29.399536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="29.512344"
+         x="29.399536"
+         id="tspan7039">int x</tspan><tspan
+         y="35.685955"
+         x="29.399536"
+         id="tspan7041">...</tspan><tspan
+         y="41.859566"
+         x="29.399536"
+         id="tspan7043">store r2, 0</tspan><tspan
+         y="48.033176"
+         x="29.399536"
+         id="tspan7045">...</tspan><tspan
+         y="54.206791"
+         x="29.399536"
+         id="tspan7047">call  8800 (...)</tspan><tspan
+         y="60.380402"
+         x="29.399536"
+         id="tspan7049">...</tspan></text>
+    <text
+       id="text5433-9"
+       y="29.436443"
+       x="11.796154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="29.436443"
+         x="11.796154"
+         id="tspan6941">      0: </tspan><tspan
+         y="35.610054"
+         x="11.796154"
+         id="tspan6943">...</tspan><tspan
+         y="41.783665"
+         x="11.796154"
+         id="tspan6945">  234:</tspan><tspan
+         y="47.957275"
+         x="11.796154"
+         id="tspan6947">..</tspan><tspan
+         y="54.13089"
+         x="11.796154"
+         id="tspan6949">3333:</tspan><tspan
+         y="60.304501"
+         x="11.796154"
+         id="tspan6951">...</tspan><tspan
+         y="66.478111"
+         x="11.796154"
+         id="tspan6953" /></text>
+    <text
+       id="text5433-9-1"
+       y="23.094755"
+       x="97.361877"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="23.094755"
+         x="97.361877"
+         id="tspan7091"> Uudelleensijoitusvakiot</tspan></text>
+    <rect
+       y="67.976822"
+       x="28.107277"
+       height="80.508942"
+       width="61.232136"
+       id="rect13466-2"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-2"
+       y="72.66983"
+       x="29.914547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="72.66983"
+         x="29.914547"
+         id="tspan944">int a</tspan><tspan
+         y="78.843445"
+         x="29.914547"
+         id="tspan946">...</tspan><tspan
+         y="85.017052"
+         x="29.914547"
+         id="tspan948">load r1, 8000</tspan><tspan
+         y="91.190666"
+         x="29.914547"
+         id="tspan950">...</tspan><tspan
+         y="97.364273"
+         x="29.914547"
+         id="tspan952">Report (...)</tspan><tspan
+         y="103.53789"
+         x="29.914547"
+         id="tspan954">{   ...</tspan><tspan
+         y="109.71149"
+         x="29.914547"
+         id="tspan956">    call  -23 (...)</tspan><tspan
+         y="115.88511"
+         x="29.914547"
+         id="tspan958">    ...</tspan><tspan
+         y="122.05872"
+         x="29.914547"
+         id="tspan960">    store r4, 8000</tspan><tspan
+         y="128.23233"
+         x="29.914547"
+         id="tspan962">    ...</tspan><tspan
+         y="134.40594"
+         x="29.914547"
+         id="tspan964">}</tspan><tspan
+         y="140.57956"
+         x="29.914547"
+         id="tspan966">...</tspan></text>
+    <text
+       id="text5433-9-5"
+       y="72.896324"
+       x="7.851048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="72.896324"
+         x="7.851048"
+         id="tspan916">  8000: </tspan><tspan
+         y="79.069939"
+         x="7.851048"
+         id="tspan918">...</tspan><tspan
+         y="85.243546"
+         x="7.851048"
+         id="tspan920"> 8302:</tspan><tspan
+         y="91.41716"
+         x="7.851048"
+         id="tspan922">...</tspan><tspan
+         y="97.590767"
+         x="7.851048"
+         id="tspan924"> 8800:</tspan><tspan
+         y="103.76438"
+         x="7.851048"
+         id="tspan926">...</tspan><tspan
+         y="109.93799"
+         x="7.851048"
+         id="tspan928"> 8840:</tspan><tspan
+         y="116.1116"
+         x="7.851048"
+         id="tspan930">...</tspan><tspan
+         y="122.28522"
+         x="7.851048"
+         id="tspan932"> 8850:</tspan><tspan
+         y="128.45883"
+         x="7.851048"
+         id="tspan934">...</tspan><tspan
+         y="134.63243"
+         x="7.851048"
+         id="tspan936"> </tspan><tspan
+         y="140.80605"
+         x="7.851048"
+         id="tspan938" /><tspan
+         y="146.97966"
+         x="7.851048"
+         id="tspan940" /><tspan
+         y="153.15327"
+         x="7.851048"
+         id="tspan942">14000:</tspan></text>
+    <text
+       id="text5433-9-1-7"
+       y="35.922676"
+       x="101.42688"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="35.922676"
+         x="101.42688"
+         id="tspan915">GameX:       0</tspan><tspan
+         y="42.096287"
+         x="101.42688"
+         id="tspan917">Stats:     8000</tspan></text>
+    <text
+       id="text5433-4-1"
+       y="65.178032"
+       x="99.264786"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="65.178032"
+         x="99.264786"
+         id="tspan7113">Uudelleensijoitustaulu (kaikki)</tspan></text>
+    <rect
+       y="67.389313"
+       x="98.439598"
+       height="80.130966"
+       width="106.21131"
+       id="rect13466-6-6"
+       style="opacity:1;fill:#fff0b9;fill-opacity:1;stroke:none;stroke-width:0.49999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-4"
+       y="75.637253"
+       x="100.25718"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="75.637253"
+         x="100.25718"
+         id="tspan908">SYMBOL          arvo   viitteet</tspan><tspan
+         y="81.810867"
+         x="100.25718"
+         id="tspan910">x:                        0     234, ...</tspan><tspan
+         y="87.984474"
+         x="100.25718"
+         id="tspan912">a:                  8000     8302, 8850, ...</tspan><tspan
+         y="94.158089"
+         x="100.25718"
+         id="tspan914">...</tspan><tspan
+         y="100.3317"
+         x="100.25718"
+         id="tspan919"></tspan><tspan
+         y="106.50531"
+         x="100.25718"
+         id="tspan921">EXPORT</tspan><tspan
+         y="112.67892"
+         x="100.25718"
+         id="tspan923">Stats.Report:   8800</tspan><tspan
+         y="118.85253"
+         x="100.25718"
+         id="tspan925">..</tspan><tspan
+         y="125.02615"
+         x="100.25718"
+         id="tspan927"></tspan><tspan
+         y="131.19975"
+         x="100.25718"
+         id="tspan929">IMPORT</tspan><tspan
+         y="137.37337"
+         x="100.25718"
+         id="tspan931">Math.Aver:         -23    8840  (dyn. link.)</tspan></text>
+    <text
+       id="text5433-9-1-88"
+       y="7.8170886"
+       x="8.0492382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="7.8170886"
+         x="8.0492382"
+         id="tspan885">Dynaamisesti linkitetty GameX latausmoduuli</tspan></text>
+    <text
+       id="text5433-9-1-6"
+       y="28.011166"
+       x="70.54171"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="28.011166"
+         x="70.54171"
+         id="tspan889">GameX</tspan></text>
+    <text
+       id="text5433-9-1-8"
+       y="73.388802"
+       x="75.528587"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="73.388802"
+         x="75.528587"
+         id="tspan5655"
+         style="stroke-width:0.26458332">Stats</tspan></text>
+  </g>
+</svg>

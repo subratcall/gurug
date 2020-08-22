@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1040"
+   version="1.1"
+   viewBox="0 0 210.91072 133.42562"
+   height="133.42561mm"
+   width="210.91072mm">
+  <defs
+     id="defs1034" />
+  <metadata
+     id="metadata1037">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1.8449052e-8,-32.416668)"
+     id="layer1">
+    <rect
+       y="32.416668"
+       x="1.8449052e-008"
+       height="133.42561"
+       width="210.91072"
+       id="rect1907"
+       style="opacity:0.98000004;fill:#ffe2b9;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.25999998, 4.51999997;stroke-dashoffset:21.35433006;stroke-opacity:1" />
+    <text
+       id="text5433-7-7"
+       y="45.742691"
+       x="30.77878"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="45.742691"
+         x="30.77878"
+         id="tspan1603">JVM:n muistialueet ja rekisterit</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7"
+       y="155.86913"
+       x="25.126659"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="155.86913"
+         x="25.126659"
+         id="tspan1638">metodialue</tspan></text>
+    <rect
+       y="72.671127"
+       x="23.623514"
+       height="26.458334"
+       width="36.285713"
+       id="rect13466-7-4-1-8"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-0-8"
+       y="111.6972"
+       x="14.622608"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="111.6972"
+         x="14.622608"
+         id="tspan1658">PC</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-0-8-6"
+       y="61.426365"
+       x="82.063309"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="61.426365"
+         x="82.063309"
+         id="tspan1678">SP</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-0-8-4"
+       y="95.822197"
+       x="83.197227"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="95.822197"
+         x="83.197227"
+         id="tspan1688">LV</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-0-8-1"
+       y="148.3609"
+       x="149.72104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="148.3609"
+         x="149.72104"
+         id="tspan1698">CPP</tspan></text>
+    <rect
+       y="114.13512"
+       x="161.58482"
+       height="34.395832"
+       width="29.104164"
+       id="rect13466-7-4-1-8-6"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-4"
+       y="156.4174"
+       x="163.55426"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="156.4174"
+         x="163.55426"
+         id="tspan1733">vakioallas</tspan></text>
+    <rect
+       y="137.41245"
+       x="90.903275"
+       height="11.420906"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="106.50001"
+       x="90.903275"
+       height="18.520834"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1-9"
+       style="opacity:1;fill:#d6fcbf;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="71.348228"
+       x="90.903275"
+       height="21.544651"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1-9-9"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="57.741085"
+       x="90.903275"
+       height="13.607142"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1-9-9-9"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3"
+       y="156.3418"
+       x="93.099548"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="156.3418"
+         x="93.099548"
+         id="tspan847">pino</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5"
+       y="144.54306"
+       x="93.718063"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="144.54306"
+         x="93.718063"
+         id="tspan1833">main</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5"
+       y="114.84687"
+       x="92.889923"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="114.84687"
+         x="92.889923"
+         id="tspan855">metodi A:n</tspan><tspan
+         y="121.02048"
+         x="92.889923"
+         id="tspan857">kehys</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5-5"
+       y="80.525803"
+       x="93.292076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="80.525803"
+         x="93.292076"
+         id="tspan851">metodi B:n</tspan><tspan
+         y="86.699417"
+         x="93.292076"
+         id="tspan853">kehys</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5-5-9"
+       y="63.214485"
+       x="92.887207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="63.214485"
+         x="92.887207"
+         id="tspan867">välitulokset</tspan><tspan
+         y="69.3881"
+         x="92.887207"
+         id="tspan869">metodi B</tspan></text>
+    <rect
+       y="125.02084"
+       x="90.903275"
+       height="12.391595"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1-5"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="92.892876"
+       x="90.903275"
+       height="13.607135"
+       width="32.505951"
+       id="rect13466-7-4-1-8-1-5-0"
+       style="opacity:1;fill:#d6fcbf;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5-5-9-0"
+       y="98.800804"
+       x="93.329842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="98.800804"
+         x="93.329842"
+         id="tspan863">välitulokset</tspan><tspan
+         y="104.97442"
+         x="93.329842"
+         id="tspan865">metodi A</tspan></text>
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5-5-9-0-1"
+       y="130.26146"
+       x="93.500259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="130.26146"
+         x="93.500259"
+         id="tspan871">välitulokset</tspan><tspan
+         y="136.43507"
+         x="93.500259"
+         id="tspan873">main</tspan></text>
+    <rect
+       y="99.129456"
+       x="23.623512"
+       height="27.805847"
+       width="36.285713"
+       id="rect13466-7-4-1-8-0"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="126.9353"
+       x="23.623514"
+       height="22.422173"
+       width="36.285713"
+       id="rect13466-7-4-1-8-0-6"
+       style="opacity:1;fill:#b9fff3;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5433-7-6-54-5-1-7-8-6-2-4-8-9-75-5-7-3-5-5-5-5"
+       y="111.21822"
+       x="28.20785"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="111.21822"
+         x="28.20785"
+         id="tspan920">metodi B:n</tspan><tspan
+         y="117.39184"
+         x="28.20785"
+         id="tspan922">koodi</tspan></text>
+  </g>
+</svg>
